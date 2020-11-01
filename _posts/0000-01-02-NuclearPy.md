@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-
-Use the left arrow to go back!
+![LaTex is Best Friend](https://i.redd.it/5fwpvt3vk2w51.jpg)
